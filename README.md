@@ -1,6 +1,6 @@
-# PRODIGY_DS_02
 
-## Task 02: Exploratory Data Analysis (EDA)
+
+##  Exploratory Data Analysis (EDA)
 
 ### Objective
 To perform data cleaning and exploratory data analysis on the Titanic dataset to identify patterns and relationships between variables.
